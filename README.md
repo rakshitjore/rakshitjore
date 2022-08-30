@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rakshit 
 #### Data Analyst | Python
-I'm Rakshit ,a Data Analyst by profession and Engineer by Education. I enjoy making dashboards and coding as well as Analyzing data. I also enjoy exploring new things.
+I'm Rakshit ,A Data Analyst by profession and Engineer by Education. I enjoy making dashboards and coding as well as Analyzing data. I also enjoy exploring new things.
 
 Skills: Python / C / SQL SERVER / PowerBI / Tableau
 
