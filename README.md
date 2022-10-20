@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Rakshit 
+(https://raw.githubusercontent.com/rakshitjore/desktop-tutorial/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.gif?token=GHSAT0AAAAAABZ3RAMEQDJCFGYU355JAWZEY2RKD4A)
 #### Data Analyst | Python
 I'm Rakshit , A Data Analyst by profession and Engineer by Education. I enjoy making dashboards and coding as well as Analyzing data. I also enjoy exploring new things.
 
